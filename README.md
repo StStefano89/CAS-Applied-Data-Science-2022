@@ -14,7 +14,7 @@ Course competence is developed throughout six modules. On completion the graduat
 - be able to analyse and communicate data science challenges and use a wide range of data science tools and methods;
 - be able to perform deep learning for a wide range of tasks.
 
-## Courses
+## Modules
 
 - M1 Data acquisition and management 
 - M2 Statistical Inference for Data Science
@@ -23,4 +23,4 @@ Course competence is developed throughout six modules. On completion the graduat
 - M5 Peer Consulting and Selected Readings
 - M6 Deep Learning
 
-Further explanations about the modules are given in the subfolders. Task of modul 4 is to create a repository for the project materials. Therefore, material is only available for M1 - M4.
+Further explanations about the modules are given in the subfolders. Task of modul 4 is to create a repository for the project materials. Therefore, material is only available for M1 - M3.
