@@ -23,4 +23,4 @@ Course competence is developed throughout six modules. On completion the graduat
 - M5 Peer Consulting and Selected Readings
 - M6 Deep Learning
 
-Further explanations about the modules are given in the subfolders.
+Further explanations about the modules are given in the subfolders. Task of modul 4 is to create a repository for the project materials. Therefore, material is only available for M1 - M4.
