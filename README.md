@@ -5,7 +5,8 @@ This repository consists of the materials of the CAS in Applied Data Science off
 Source: https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html
 
 ## Objectives
-- Course competence is developed throughout six modules. On completion the graduates will:
+
+Course competence is developed throughout six modules. On completion the graduates will:
 - be familiar with different data sources, data types, and be able to develop data management plans;
 - be able to describe, extract and present scientific knowledge from data by application of statistical methods;
 - be able to process data with machine learning tools and methods;
@@ -21,3 +22,5 @@ Source: https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_s
 - M4 Introduction to IT Security for Data Scientists and Ethics and Best Practices
 - M5 Peer Consulting and Selected Readings
 - M6 Deep Learning
+
+Further explanations about the modules are given in the subfolders.
