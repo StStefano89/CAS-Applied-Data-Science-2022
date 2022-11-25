@@ -1,6 +1,8 @@
 # Date: 25.11.2022
 # Descrption: this file connects to a sqlite database and extracts the necessary data for further analysis
 
+# Datasource: https://www.kaggle.com/datasets/hugomathien/soccer
+
 # import required packages
 
 import sqlite3
